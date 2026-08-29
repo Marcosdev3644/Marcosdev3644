@@ -1,16 +1,16 @@
-## Hi there 👋
+#  Olá, eu sou o Marcos Vinícius!
 
-<!--
-**Marcosdev3644/Marcosdev3644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Desenvolvedor:
+    def __init__(self):
+        self.nome = "Marcos Vinícius Cavalcante Ferreira De Castro"
+        self.atual = "Mecânico de Manutenção na Cargill"
+        self.formacao = "Ciência da Computação (6º Período)"
+        self.foco = ["Programação Backend", "Análise de Dados", "Business Intelligence (BI)"]
+        self.linguagens = ["Python", "C", "C++", "SQL", "JavaScript"]
+        self.local = "Brasil"
 
-Here are some ideas to get you started:
+    def objetivo_profissional(self):
+        return "Combinar vivência técnica e lógica de programação para transformar dados em inteligência de negócio."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+dev = Desenvolvedor()
